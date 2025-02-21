@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋! My name is Alex and I'm a Web Developer.</h2>
 
 ###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
