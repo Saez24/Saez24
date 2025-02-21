@@ -1,9 +1,7 @@
 <h2 align="center">Hi 👋! My name is Alex and I'm a Web Developer.</h2>
-<br>
 
 ###
-<br>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
