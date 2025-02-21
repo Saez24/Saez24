@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Germany</h3>
 <br>
 
-<p align="left" style="display: flex; gap: 10px;"> <a href=" https://angular.io" target="_blank"
+<p align="center" display: flex;justify-content: space-between;"> <a href=" https://angular.io" target="_blank"
         rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
             height="40" />
     </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
@@ -35,8 +35,9 @@
             alt="typescript" width="40" height="40" /> </a> </p>
 <br>
 <br>
-
+<div<
 ![Saez24's
 Stats](https://github-readme-stats.vercel.app/api?username=Saez24&theme=react&show_icons=true&hide_border=false&count_private=true)
 ![Saez24's Top
 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saez24&theme=react&show_icons=true&hide_border=false&layout=compact)
+</div>
