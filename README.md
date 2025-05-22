@@ -21,4 +21,9 @@ I'm a **Fullstack Developer** . I enjoy building projects that utilize modern te
 ## GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saez24&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saez24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Saez24&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
