@@ -57,7 +57,7 @@ I'm a **Fullstack Developer** . I enjoy building projects that utilize modern te
 
 ## Top Projects
 
-- [Videoflix Frontend](https://github.com/Saez24/Videoflix) A Web application for a video streaming application.
+- [Videoflix](https://github.com/Saez24/Videoflix) A Web application for a video streaming application.
 - [Coderr](https://github.com/Saez24/Coderr): A collaborative coding platform.
 - [Join](https://github.com/Saez24/Join): A taskmanager platform.
 - [El_Pollo_Loco](https://github.com/Saez24/El_Pollo_Loco): A Jump-and-Run Browser Game.
