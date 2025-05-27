@@ -57,11 +57,12 @@ I'm a **Fullstack Developer** . I enjoy building projects that utilize modern te
 
 ## Top Projects
 
-- [Videoflix_Backend](https://github.com/Saez24/Videoflix_Backend): A backend service for a video streaming application. Stars: 0, Language: Python, Forks: 0, Issues: 0
-- [Coderr_Backend](https://github.com/Saez24/Coderr_Backend): An API for a collaborative coding platform. Stars: 0, Language: Python, Forks: 0, Issues: 0
-- [Join_Backend](https://github.com/Saez24/Join_Backend): A backend service for a community platform. Stars: 0, Language: Python, Forks: 0, Issues: 0
-- [El_Pollo_Loco](https://github.com/Saez24/El_Pollo_Loco): A fun web application. Stars: 0, Language: JavaScript, Forks: 0, Issues: 0
-- [pokedex](https://github.com/Saez24/pokedex): A simple application to browse Pokémon data. Stars: 0, Language: JavaScript, Forks: 0, Issues: 0
+- [Videoflix_Backend](https://github.com/Saez24/Videoflix_Backend): A backend service for a video streaming application.
+- [Videoflix Frontend](https://github.com/Saez24/Videoflix_Frontend_DA) A Web application for a video streaming application.
+- [Coderr_Backend](https://github.com/Saez24/Coderr_Backend): An API for a collaborative coding platform.
+- [Join_Backend](https://github.com/Saez24/Join_Backend): A backend service for a taskmanager platform.
+- [El_Pollo_Loco](https://github.com/Saez24/El_Pollo_Loco): A fun web application.
+- [pokedex](https://github.com/Saez24/pokedex): A simple application to browse Pokémon data.
 
 ## GitHub Stats
 
